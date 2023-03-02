@@ -4,7 +4,7 @@ description: Report a bug
 labels:
   - bug
 body:
-  - type: date
+  - type: datetime
     attributes:
       label: Contribution guidelines
       description: Please read the contribution guidelines before proceeding.
